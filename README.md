@@ -1,6 +1,6 @@
 # Time series forecasting with LSTM
 
-Main combined colab: https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Project_TDT4173.ipynb 
+Main combined colab: https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Project_TDT4173.ipynb  
 Single colab: https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Single_Model.ipynb
 ## Dataset
 
