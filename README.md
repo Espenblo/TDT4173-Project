@@ -7,13 +7,13 @@ Single colab: https://colab.research.google.com/github/Espenblo/TDT4173-Project/
 The project fetch data from Yahoo Finance. Each stock has a dataset that is fetched from Yahoo. The data contains the following features: date, high price, low price, open price, close price and volume.
 
 # How to run the project:
-Follow the link on the top, and you will be sent to Google Colab. You can either select the "Main combiend colab" where you have the ability to train models on multiple stocks, or you can select the "Single colab" where you only can train on a single stock.
+Follow the link on the top, and you will be sent to Google Colab. You can either select the "Main combined colab" where you have the ability to train a model  on multiple stocks, or you can select the "Single colab" where you only can train on a single stock.
 The code is structured in cells.
-Each of the cells has and overhead describing what the cell does. The code is also commented for further elaboration.
+Each of the cells has an overhead describing what the cell does. The code is also commented for further elaboration.
 
 - Click on the link in the top
-- In the first cell: uncomment/comment the stock you want to predict (it will import data from Yahoo and create a dataframe for the selected stock). Notice that four cells has to be changed - these are the lines determining what stock to fetch. Each line is marked with a "TODO" comment. Use Ctrl + F/ Cmd+F and search for "TODO" for easier navigation.
-- In the menu-bar there is a section called runtime. Click on it and select run all. You will then run both the single and combined model.
+- In the first cell: uncomment/comment the stock you want to predict (it will import data from Yahoo and create a dataframe for the selected stock). Notice that four cells has to be changed - these are the lines determining what stocks to fetch. Each line is marked with a "TODO" comment. Use Ctrl + F/ Cmd+F and search for "TODO" for easier navigation.
+- In the menu-bar there is a section called runtime. Click on it and select run all. You will then run the entire colab file.
 
 ## How to save a model:
 
