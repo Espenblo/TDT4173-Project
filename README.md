@@ -1,6 +1,6 @@
 # Time series forecasting with LSTM
 
-https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Espen.ipynb#scrollTo=Go-10uXwVmf7
+https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Project_TDT4173.ipynb
 
 ## Dataset
 The project fetch data from Yahoo Finance. Each stock has a dataset that is fetched from Yahoo. The data contain date, high, low , ope, close and volume.
