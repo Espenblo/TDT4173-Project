@@ -30,3 +30,6 @@ Each of the cells has an overhead describing what the cell does. The code is als
 ## Files in this repo
 The colab files are appended to this repo. The "TDT4173_project.ipynb" file corresponds to the "Main combined colab", and the "single_model.ipynb" corresponds to the "Single colab".
 
+## More information
+To see the results from our project, and to view more information, check out our website: https://khardang.github.io/lstm-stock-prediction
+
