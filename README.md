@@ -8,7 +8,7 @@ The project fetch data from Yahoo Finance. Each stock has a dataset that is fetc
 # How to run the project:
 You follow the link on the top, you will be sent to Google Colab. 
 The code is structured in cells. 
-Each of the cells has and overhead with what the cell contains. The code is also commented.
+Each of the cells has an overhead with what the cell contains. The code is also commented.
 
 - Click on the link in top
 - Uncomment/comment the stock you want to predict(Import Data From Yahoo and create dataframe for first stock). Notice that there is 4 places that has to be changed! Ctrl + F and and search for TODO for easier navigation.
