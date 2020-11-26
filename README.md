@@ -26,6 +26,6 @@ Each of the cell has and overhead of what the cell contains. The code is also co
 - Change the name on the file
 - Make sure you save the ID that will be printed out under the cell
 
-# Files in this repo
+## Files in this repo
 The main code are in the link, here you can runn all the code.That is the same as the file TDT4173_project.ipynb
-In the files single_model.ipynb and combined_model.ipynb is the same code just splitted so its more clear to see th code for the different aspects.
+In the file single_model.ipynb is the same code just only for one stock.
