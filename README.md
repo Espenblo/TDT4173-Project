@@ -27,5 +27,5 @@ Each of the cell has and overhead of what the cell contains. The code is also co
 - Make sure you save the ID that will be printed out under the cell
 
 # Files in this repo
-The main code are in the link, and the files called TDT4173_project.ipynb
-In the files single_model.py and combined_model.py the code i splitted so it would be more clear to see the codefor the different aspects. These are from original a ipynb file. But github has some problem to launch them so it is added as a .py file.
+The main code are in the link, here you can runn all the code.That is the same as the file TDT4173_project.ipynb
+In the files single_model.ipynb and combined_model.ipynb is the same code just splitted so its more clear to see th code for the different aspects.
