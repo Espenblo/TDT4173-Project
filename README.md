@@ -1,6 +1,6 @@
 # Time series forecasting with LSTM
 
-https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Project_TDT4173.ipynb
+https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Project_TDT4173.ipynb 
 
 ## Dataset
 
@@ -29,3 +29,4 @@ Each of the cell has and overhead of what the cell contains. The code is also co
 ## Files in this repo
 The main code are in the link, here you can runn all the code.That is the same as the file TDT4173_project.ipynb
 In the file single_model.ipynb is the same code just only for one stock.
+
