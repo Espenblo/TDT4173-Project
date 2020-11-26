@@ -3,7 +3,7 @@
 https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Project_TDT4173.ipynb
 
 ## Dataset
-The project fetch data from Yahoo Finance. Each stock has a dataset that is fetched from Yahoo. The data contain date, high, low , ope, close and volume.
+The project fetch data from Yahoo Finance. Each stock has a dataset that is fetched from Yahoo. The data contain date, high, low, open, close and volume.
 
 # How to run the project:
 You folow the link on the top, you will be sent to google colab. 
