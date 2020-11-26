@@ -25,3 +25,7 @@ Each of the cell has and overhead of what the cell contains. The code is also co
 - Go to cell: Save combined models(optional)
 - Change the name on the file
 - Make sure you save the ID that will be printed out under the cell
+
+# Files in this repo
+The main code are in the link, and the files called TDT4173_project.ipynb
+In the files single_model.py and combined_model.py the code i splitted so it would be more clear to see the codefor the different aspects. These are from original a ipynb file. But github has some problem to launch them so it is added as a .py file.
