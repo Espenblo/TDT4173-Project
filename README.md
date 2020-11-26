@@ -6,21 +6,21 @@ https://colab.research.google.com/github/Espenblo/TDT4173-Project/blob/main/Proj
 The project fetch data from Yahoo Finance. Each stock has a dataset that is fetched from Yahoo. The data contain date, high, low, open, close and volume.
 
 # How to run the project:
-You folow the link on the top, you will be sent to google colab. 
-Here are the code structured in cells. 
-Each of the cell has and overhead of what the cell contains. The code is also commented.
+You follow the link on the top, you will be sent to Google Colab. 
+The code is structured in cells. 
+Each of the cells has and overhead with what the cell contains. The code is also commented.
 
-- click on the link in top
-- uncomment/ comment the stock you want tot predict.(Import Data From Yahoo and create dataframe for first stock) 
-- in the tabbar there is a section called runtime. click in this and click run all. You will then run the single and combined model.
+- Click on the link in top
+- Uncomment/comment the stock you want to predict(Import Data From Yahoo and create dataframe for first stock). Notice that there is 4 places that has to be changed! Ctrl + F and and search for TODO for easier navigation.
+- In the tabbar there is a section called Runtime. Click this and select "Run all". You will then run the single and combined model.
 
 ## How to save model:
 Single
 - Go to cell: Save models single models to google drive(optinal)
-- then change name on the file if you want to save more models
-- And make sure you save the ID that will be printed out under the cell
+- Change name on the file
+- Make sure you save the ID, it will be printed out under the cell
 
 Combined
-- go to cell: Save combined models(optional)
-- Change the name on the files.
-- And make sure you save the ID that will be printed out under the cell
+- Go to cell: Save combined models(optional)
+- Change name on the file
+- Make sure you save the ID, it will be printed out under the cell
